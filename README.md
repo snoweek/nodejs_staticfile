@@ -1,6 +1,8 @@
 
 # staticfile
 
+此项目参考了此博客https://cnodejs.org/topic/4f16442ccae1f4aa27001071
+
 staticfile,即静态文件服务器。当浏览器发送URL，静态文件服务端解析URL，对应到硬盘上的文件，应该有以下结果
 
 1.如果文件存在，返回200状态码，并发送文件到浏览器端.
